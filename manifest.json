@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-callout-shortcuts",
+	"name": "Callout Shortcuts",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Shortcut commands for working with callouts",
+	"author": "Qyriad",
+	"authorUrl": "https://github.com/Qyriad",
+	"isDesktopOnly": false
+}
